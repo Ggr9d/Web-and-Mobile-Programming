@@ -1,2 +1,0 @@
-Demo file
-Making changes for the pull request after new branch creation
